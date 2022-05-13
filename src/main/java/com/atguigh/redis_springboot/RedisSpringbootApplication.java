@@ -8,7 +8,6 @@ public class RedisSpringbootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(RedisSpringbootApplication.class, args);
-         int i;
     }
 
 }
